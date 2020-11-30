@@ -1,0 +1,16 @@
+body {
+    background-color: silver;
+}
+
+.card{
+    background-color:#012f3a;
+    border-radius: 20px;
+    color: white;
+}
+.navbar {
+    background-color: #023846;
+    font-family: 'Paytone One', sans-serif;
+}
+.clr {
+    background-color: #023846;
+}
