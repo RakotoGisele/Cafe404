@@ -1,0 +1,46 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color:#023846;;
+    font-family: 'Paytone One', sans-serif;
+    color: #ccc;
+}
+.navbar {
+    background-color: #012f3a;
+}
+.row {
+    padding: 0;
+    margin: 0;
+}
+.tableau {
+    background-color:#012f3a;;
+    font-family: 'Paytone One', sans-serif;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 2%;
+}
+.card {
+    background-color:#012f3a;;
+    font-family: 'Paytone One', sans-serif;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+    width: 15rem;
+}
+.row {
+    text-align: center;
+}
+.clr {
+    background-color: #023846;
+}
+.bouton_disponible{
+    background-color: green;
+    color: rgb(255, 255, 255);
+}
+.bouton_indisponible{
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
